@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 2care — Digital Health Wallet
 
 A full-stack personal health wallet web application. Upload medical reports, track vitals over time with charts, search and filter records, and share selected reports with doctors, family, and friends.
@@ -182,3 +183,6 @@ Reports are stored locally at `backend/uploads/{userId}/{uuid}.{ext}`. For produ
 ## License
 
 MIT
+=======
+# 2care-health-wallet
+>>>>>>> 35652f9e482880be02ae7bc1f1d0b5cd4f75f80e
